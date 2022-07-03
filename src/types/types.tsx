@@ -11,6 +11,10 @@ export type AttributeType = {
     type: string,
 }
 
+export type CategoryType = {
+    name: string,
+}
+
 export type CurrencyType = {
     label: string,
     symbol: string,
